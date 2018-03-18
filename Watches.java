@@ -23,6 +23,7 @@ public class Watches {
 		// you should write here 
 		// how to set time))
 		// be carefull ;)
+		// Paul was here
 	}
 	
 	public void setDate(int year, int month, int day) {
